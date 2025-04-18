@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/modules.xml
+/.idea.Tracking_app_pfe_Frontend.iml
 /contentModel.xml
-/.idea.Tracking_app_PFE_frontEnd.iml
 /projectSettingsUpdater.xml
+/modules.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files

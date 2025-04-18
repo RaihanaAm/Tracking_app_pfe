@@ -1,4 +1,4 @@
-namespace Tracking_app_PFE_frontEnd.Models;
+namespace Tracking_app_pfe_Frontend.Models;
 
 public class ErrorViewModel
 {

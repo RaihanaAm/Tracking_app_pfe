@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Tracking_app_PFE_frontEnd.Models;
+using Tracking_app_pfe_Frontend.Models;
 
-namespace Tracking_app_PFE_frontEnd.Controllers;
+namespace Tracking_app_pfe_Frontend.Controllers;
 
 public class HomeController : Controller
 {
