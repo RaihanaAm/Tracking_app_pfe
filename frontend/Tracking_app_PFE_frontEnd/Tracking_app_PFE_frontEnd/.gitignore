@@ -1,0 +1,29 @@
+# Build & IDE Files
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# ASP.NET Core
+bin/
+obj/
+
+.user
+
+
+# Sensitive Configs
+appsettings.Development.json
+appsettings.local.json
+
+# Dependencies (if using npm/yarn)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Runtime/Compiled files
+[Dd]ebug/
+[Rr]elease/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
